@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586130254 source:e:\programing shit\c shit\ca1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586768721 source:e:\programing shit\c shit\ca1 - copy\functions.c
+
+1586768924 source:e:\programing shit\c shit\ca1 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1586437477 e:\programing shit\c shit\ca1 - copy\functions.h
+
