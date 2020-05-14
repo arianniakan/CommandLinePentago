@@ -4,4 +4,4 @@ where insted of having to have 5 pices of the same color in a row to win it meed
 
 
 
-*written in #c 
+*written in #c* 
